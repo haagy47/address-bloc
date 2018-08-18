@@ -1,0 +1,20 @@
+*Exercises*
+
+For the following situations, determine which search approach to use and why would you take that approach. Write your answers in the submission box below.
+
+
+1. Performing a search of a sorted by name IRS database for a taxpayer name
+
+	I would use the searching functionality built into an ORM because the system already contains efficient search algorithms. 
+
+2. Searching through an unsorted list containing the days of the weekend
+
+	I would use an iterative search method because it would efficiently search through a small data set. 
+
+3. Given a list of the planets in the Milky Way in ascending order by size, search for a planet with a given size.
+
+	I would use a binary search since the list of planets is sorted and a binary search is faster than a iterative search. 
+
+4. Searching for a checkpoint name in an unsorted list of Bloc checkpoints
+
+	I would use an iterative search since the list of Bloc checkpoints is unsorted. 
